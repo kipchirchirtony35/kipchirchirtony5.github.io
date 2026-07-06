@@ -39,3 +39,4 @@ Get-ChildItem -Recurse | Select-String -Pattern "contact" -List
 ## Task 5.4 — Script
 .\new-project.ps1 my-awesome-app
 
+
