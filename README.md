@@ -1,4 +1,4 @@
-# Chirchir Toni - Week 03 Project
+# Kipchirchir Tony - Week 03 Project
 
 This repository contains my Week 03 web development project completed as part of the IYF Software Engineering program. During this project, I practiced building a responsive multi-page website using HTML5 and CSS3 while applying Git and GitHub workflows such as branching, merging, and version control.
 
