@@ -12,7 +12,7 @@ This repository contains my Week 03 web development project completed as part of
 
 ## Screenshot
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./images/image.png)
 
 ---
 
