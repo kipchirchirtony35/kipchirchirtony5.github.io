@@ -6,7 +6,7 @@ This repository contains my Week 03 web development project completed as part of
 
 ## Live Demo
 
-[View Live Site](https://kipchirchirtony35.github.io/iyf-s11-week-03-kipchirchirtony35)
+[View Live Site](https://github.com/kipchirchirtony35/kipchirchirtony5.github.io?authuser=1)
 
 ---
 
@@ -81,7 +81,6 @@ Throughout this project, I learned how to:
 ## Contact
 
 - **Email:** kipchirchirtony35@gmail.com
-- **LinkedIn:** https://linkedin.com/in/yourprofile
 - **GitHub:** https://github.com/kipchirchirtony35
 
 ---
